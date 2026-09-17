@@ -4,12 +4,12 @@ Want to start a Noita run with an extremely powerful Mina?
 
 This repository contains a working player.xml that can be used to start a new run with:
 
-❤️ Effectively infinite HP
-👑 Crown
-💎 34-orb amulet/gem
-🪄 Tinker With Wands Everywhere
-🧪 Polymorph immunity
-🎒 Expanded inventory
+- Effectively infinite HP
+- Crown
+- 34-orb amulet/gem
+- Tinker With Wands Everywhere
+- Polymorph immunity
+- Expanded inventory
 Installation
 Back up your Noita save.
 Close Noita completely.
